@@ -1,0 +1,73 @@
+body {
+    padding: 0%;
+    margin: 0%;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+header {
+    background-color: #162C45;
+    height: 220px;
+}
+
+.mi_foto {
+    padding: 2%;
+    width: 96%;
+    height: 200px;
+}
+
+#foto {
+    width: auto;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.mi_nombre {
+    text-align: right;
+    height: 200px;
+    width: 96%;
+    padding: 2%;
+    color: #BFAA8F;
+}
+
+main {
+    background-color: #575945;
+    color: #F2D7B6;
+}
+
+hr {
+    color: #162C45;
+    border-top: 4px solid;
+}
+
+.detalles,
+.item {
+    padding: 2%;
+    text-align: justify;
+}
+
+footer {
+    background-color: #162C45;
+}
+
+.contacto {
+    text-align: right;
+    width: 98%;
+    padding: 2%;
+    color: #BFAA8F;
+}
+
+.redes {
+    text-align: left;
+}
+
+.fa-2xl {
+    color: #BFAA8F;
+    padding: 6%;
+    margin-top: 10%;
+
+}
